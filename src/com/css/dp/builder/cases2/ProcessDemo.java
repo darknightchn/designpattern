@@ -2,7 +2,7 @@ package com.css.dp.builder.cases2;
 
 import com.css.dp.builder.productions.Bike;
 
-public class Click {
+public class ProcessDemo {
 
     public static void main(String[] args) {
         showBike(new OfoBuilder());
