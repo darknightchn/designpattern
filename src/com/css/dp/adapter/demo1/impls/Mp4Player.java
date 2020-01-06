@@ -1,6 +1,6 @@
-package com.css.dp.adapter.impls;
+package com.css.dp.adapter.demo1.impls;
 
-import com.css.dp.adapter.ifs.AdvancedMediaPlayer;
+import com.css.dp.adapter.demo1.ifs.AdvancedMediaPlayer;
 
 public class Mp4Player implements AdvancedMediaPlayer {
     @Override

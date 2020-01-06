@@ -1,6 +1,6 @@
-package com.css.dp.adapter.impls;
+package com.css.dp.adapter.demo1.impls;
 
-import com.css.dp.adapter.ifs.MediaPlayer;
+import com.css.dp.adapter.demo1.ifs.MediaPlayer;
 
 public class AudioPlayer implements MediaPlayer {
 
